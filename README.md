@@ -20,3 +20,6 @@
 
 ## BOM</a>
 This is the implementation of RSS2025 paper PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands
+
+## CAD Models</a>
+All CAD models can be downloaded and edited from [[onshape]](https://cad.onshape.com/documents/9472112f26da7f3a688b4739/w/3c5ca2de4889759493b1cc6c/e/c49e7e8ea4181ab75b1e7674?renderMode=0&uiState=68397b2e09687d4e84e2a7c1)
