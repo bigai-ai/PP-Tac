@@ -5,7 +5,7 @@
 [[Video Tutorial]](https://peilin-666.github.io/projects/PP-Tac/)
 
 
-<img width="90%" src="source/sensor.png">
+<img width="90%" src="source/guide.png">
 
 
 
