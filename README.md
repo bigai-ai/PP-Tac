@@ -40,3 +40,6 @@ If you opt for white LED chips, it is recommended to select the 2835 package typ
   <img src="PCB/PCB1.png" alt="Image 1" style="height: 200px;">
   <img src="PCB/PCB.png" alt="Image 2" style="height: 200px;">
 </div>
+
+## Diffuser Boards</a>
+Diffuser patterns (.dxf) can be downloaded from [Diffuser](Model/Diffuser). It is recommended to laser-cut the [double-sided frosted one](https://detail.tmall.com/item.htm?_u=u1tj68hd2040&id=550079594688&pisk=gz4QsiAykpvCu90JNDfw5a6vTQ07V17VyQG8i7Lew23KVUFUhb8r4McWPANAtvSlx8Z_eRmEpYorPbwqIW8PtW55P7Fxp4rELbeaFRxULzkzQaN0hD8UwzR3j-Pv8ySnzUgnr4BV3Z7qTW0oyX7s6w9n6jGRzUnJv2093vOFDZ74t5OE9sPOuz79ZilB2Ue-vVLtaAhKwULd1chrZ4LK2eK9BADtypKK9CFtZjdp98hpW5hoiBKpvYK96XDte438e5CsaAH-9vQs_MMLO6J8xoTCqBPSCUL85fBnHW69zfaZOqkbAy_Pz_cIAxFKCtW0K7nTZ0akZUia9o2oMJpdFY4_6yEYHO-EpoG7guwAaHcZVy0seyQDGAUQNPi3bZpsslFU2y2BNUh38roSnc1Jr0uTumEYdQf062h8Em4PneDLwS400q_BnXZTGVsrYEkfnW-W1mYS1x5113xoucPAK1xN7qnKsfJV119BqDhi1x5113xovfcNg116d3f..&spm=a1z09.2.0.0.137e2e8dJizF4s). You can also try 3D printing with white resin. <br>
