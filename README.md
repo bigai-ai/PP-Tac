@@ -47,3 +47,5 @@ Diffuser patterns (.dxf) can be downloaded from [Diffuser](Model/Diffuser). It i
 
 ## Metallic Mold</a>
 The design files can be downloaded from [Mold](Model/MetalMold). Two molds are needed for PDMS casting (27mm diameter) and Silicone casting (30mm diameter). The mold is fabricated using stainless steel with polished and buffing cavity.<br>
+
+<img width="90%" src="Model/MetalMold/MetalMolds.png">
