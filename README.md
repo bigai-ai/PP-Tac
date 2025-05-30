@@ -3,9 +3,9 @@
 [Pei Lin](http://peilin-666.github.io/)<sup>1,2</sup>,
 [YuZhe Huang]<sup>1,3</sup>,
 [Wanlin Li](https://scholar.google.com/citations?hl=zh-CN&user=n_mYangAAAAJ)<sup>1</sup>,
-[Jianpeng Ma]<sup>3</sup>,
-[Chenxi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=Qhiy3doAAAAJ)<sup>3</sup>,
-[Ziyuan Jiao](https://scholar.google.com/citations?user=YfWhJZoAAAAJ&hl=zh-CN&oi=ao)<sup>3</sup>
+[Jianpeng Ma]<sup>1</sup>,
+[Chenxi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=Qhiy3doAAAAJ)<sup>2</sup>,
+[Ziyuan Jiao](https://scholar.google.com/citations?user=YfWhJZoAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>
 
 <sup>1</sup>Beijing Institute for General Artificial Intelligence,
 <sup>2</sup>ShanghaiTech University,
