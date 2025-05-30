@@ -31,6 +31,6 @@ All CAD models can be downloaded and edited from [[onshape]](https://cad.onshape
 (right click and copy link address to enter)
 
 ## PCBs</a>
-The PCB files can be downloaded from [PCB](PCB/)
-If you opt for white LED chips, it is recommended to select the 2835 package type and pay attention to the anode and cathode of the LED chips.
-<img width="60%" src="PCB/PCB.png">
+The PCB files can be downloaded from [PCB](PCB/).<br>
+If you opt for white LED chips, it is recommended to select the 2835 package type and pay attention to the anode and cathode of the LED chips.<br>
+<img width="60%" src="PCB/PCB1.png"> <img width="60%" src="PCB/PCB.png">
