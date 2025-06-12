@@ -20,11 +20,11 @@
 
 ## BOM</a>
 
-| 功能 | 描述 | 示例 |
-|------|------|------|
-| 支持 | 提供帮助 | [联系支持](https://support.example.com) |
-| 文档 | 查看文档 | [阅读文档](https://docs.example.com) |
-| 社区 | 加入社区 | [加入论坛](https://community.example.com) |
+| Component | Description | Component | Component |
+|------|------|------|Component |
+| 支持 | 提供帮助 | [联系支持](https://support.example.com) |Component |
+| 文档 | 查看文档 | [阅读文档](https://docs.example.com) |Component |
+| 社区 | 加入社区 | [加入论坛](https://community.example.com) |Component |
 
 ## CAD Models</a>
 All CAD models can be downloaded and edited from [[onshape]](https://cad.onshape.com/documents/9472112f26da7f3a688b4739/w/3c5ca2de4889759493b1cc6c/e/c49e7e8ea4181ab75b1e7674)
