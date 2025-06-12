@@ -52,6 +52,17 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 | Coating | Coating layer | [Psycho Paint™](https://www.smooth-on.com/products/psycho-paint/) |
 | Thinner | Coating layer thinner | [NOVOCS™ Matte](https://www.smooth-on.com/products/novocs/) |
 | Release agent | Silicone release agent | [Ease Release™ 200](https://www.smooth-on.com/products/ease-release-200/) |
-| Screws | M2 * 4 M1.6 * 5| normal screws|
+| Bolts | M2 * 4 & M1.6 * 5 & M3 *4 | bolts |
+| Hot melt nuts | M2 * 2 * 3 | nuts |
+| Soldering iron | Compatiable with above nuts | [Soldering Iron](https://item.taobao.com/item.htm?_u=i2jo70qs4f40&id=676644094694&spm=a1z09.2.0.0.32402e8dfa9bP4)|
+| Scale | For silicone mixing | Electronic Scale |
+| Tape | Double-sided tape | Tape |
+| Stick | Stirring silicone | Small Wood Stick |
+| Cup | Container for silicone | Disposable Cups |
+| Sticker | Dust removal of silicone surface | [Sticker](https://item.taobao.com/item.htm?_u=i2jo70qsf114&id=561103645534&spm=a1z09.2.0.0.32402e8dfa9bP4)|
+| Vacuum pump | Air degassing for silicone | [Vacuum Pump](https://detail.tmall.com/item.htm?_u=i2jo70qs227b&id=593806957297&spm=a1z09.2.0.0.32402e8dfa9bP4&skuId=4811795832968)|
+| Other tools | Small scissor, tweezer, knife | Tools |
+
+
 
 
