@@ -18,14 +18,6 @@
 
 <img width="90%" src="source/guide.png">
 
-## BOM</a>
-
-| Component | Description | Component | Component |
-|------|------|------|Component |
-| 支持 | 提供帮助 | [联系支持](https://support.example.com) |Component |
-| 文档 | 查看文档 | [阅读文档](https://docs.example.com) |Component |
-| 社区 | 加入社区 | [加入论坛](https://community.example.com) |Component |
-
 ## CAD Models</a>
 All CAD models can be downloaded and edited from [[onshape]](https://cad.onshape.com/documents/9472112f26da7f3a688b4739/w/3c5ca2de4889759493b1cc6c/e/c49e7e8ea4181ab75b1e7674)
 (right click and copy link address to enter).<br>
@@ -49,3 +41,17 @@ Diffuser patterns (.dxf) can be downloaded from [Diffuser](Model/Diffuser). It i
 The design files can be downloaded from [Mold](Model/MetalMold). Two molds are needed for PDMS casting (27mm diameter) and Silicone casting (30mm diameter). The mold is fabricated using stainless steel with polished and buffing cavity.<br>
 
 <img width="100%" src="Model/MetalMold/MetalMolds.png">
+
+## BOM</a>
+
+| Component | Description | Link|
+|------|------|------|
+| PDMS | Transparent base | [SYLGARD™ 184](https://www.dow.com/en-us/pdp.sylgard-184-silicone-elastomer-kit.01064291z.html#overview) |
+| Silicone | Translucent layer | [Ecoflex™ 00-10](https://www.smooth-on.com/products/ecoflex-00-10/) |
+| Black pigment | Coating colorant | [Silc Pig™](https://www.smooth-on.com/products/silc-pig/) |
+| Coating | Coating layer | [Psycho Paint™](https://www.smooth-on.com/products/psycho-paint/) |
+| Thinner | Coating layer thinner | [NOVOCS™ Matte](https://www.smooth-on.com/products/novocs/) |
+| Release agent | Silicone release agent | [Ease Release™ 200](https://www.smooth-on.com/products/ease-release-200/) |
+| Screws | M2 * 4 M1.6 * 5| normal screws|
+
+
