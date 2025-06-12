@@ -63,6 +63,8 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 | Vacuum pump | Air degassing for silicone | [Vacuum Pump](https://detail.tmall.com/item.htm?_u=i2jo70qs227b&id=593806957297&spm=a1z09.2.0.0.32402e8dfa9bP4&skuId=4811795832968)|
 | Other tools | Small scissor, tweezer, knife | Tools |
 
+## Video Guide</a>
+[[Video Tutorial]](https://peilin-666.github.io/projects/PP-Tac/)
 
 
 
