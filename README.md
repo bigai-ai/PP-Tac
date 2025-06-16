@@ -44,7 +44,7 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 
 ## BOM</a>
 
-| Component | Description | Link|
+| Component | Description | Remark |
 |------|------|------|
 | PDMS | Transparent base | [SYLGARD™ 184](https://www.dow.com/en-us/pdp.sylgard-184-silicone-elastomer-kit.01064291z.html#overview) |
 | Silicone | Translucent layer | [Ecoflex™ 00-10](https://www.smooth-on.com/products/ecoflex-00-10/) |
