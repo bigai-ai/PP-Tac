@@ -14,7 +14,7 @@
 # R-Tac Sensor Guide
 [[Project page]](https://peilin-666.github.io/projects/PP-Tac/)
 [[Paper]](https://arxiv.org/abs/2504.16649)
-[[Video Tutorial]](https://peilin-666.github.io/projects/PP-Tac/)
+[[Video Tutorial]](https://www.youtube.com/watch?v=-npk0cRKWGI)
 
 <img width="90%" src="source/guide.png">
 
