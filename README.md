@@ -68,4 +68,7 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 [[Bilibili]]()
 
 
+## Acknowledgment</a>
+[9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation](https://arxiv.org/abs/2308.14277), Lin et al., RAL 2023
+
 
