@@ -1,11 +1,11 @@
 # PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands
 
-[Pei Lin](http://peilin-666.github.io/)<sup>1,2</sup>,
-[YuZhe Huang]<sup>1,3</sup>,
-[Wanlin Li](https://mrliwanlin.github.io/)<sup>1</sup>,
+[Pei Lin<sup>*</sup>](http://peilin-666.github.io/)<sup>1,2</sup>,
+[YuZhe Huang<sup>*</sup>]<sup>1,3</sup>,
+[Wanlin Li<sup>*</sup>](https://mrliwanlin.github.io/)<sup>1</sup>,
 [Jianpeng Ma]<sup>1</sup>,
-[Chenxi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=Qhiy3doAAAAJ)<sup>2</sup>,
-[Ziyuan Jiao](https://scholar.google.com/citations?user=YfWhJZoAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>
+[Chenxi Xiao<sup>†</sup>](https://scholar.google.com/citations?hl=zh-CN&user=Qhiy3doAAAAJ)<sup>2</sup>,
+[Ziyuan Jiao<sup>†</sup>](https://scholar.google.com/citations?user=YfWhJZoAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>
 
 <sup>1</sup>Beijing Institute for General Artificial Intelligence,
 <sup>2</sup>ShanghaiTech University,
