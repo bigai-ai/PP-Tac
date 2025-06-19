@@ -2,7 +2,7 @@
 
 [Pei Lin](http://peilin-666.github.io/)<sup>1,2</sup>,
 [YuZhe Huang]<sup>1,3</sup>,
-[Wanlin Li](https://scholar.google.com/citations?hl=zh-CN&user=n_mYangAAAAJ)<sup>1</sup>,
+[Wanlin Li](https://mrliwanlin.github.io/)<sup>1</sup>,
 [Jianpeng Ma]<sup>1</sup>,
 [Chenxi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=Qhiy3doAAAAJ)<sup>2</sup>,
 [Ziyuan Jiao](https://scholar.google.com/citations?user=YfWhJZoAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>
@@ -64,7 +64,8 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 | Other tools | Small scissor, tweezer, knife | Tools |
 
 ## Video Guide</a>
-[[Video Tutorial]](https://peilin-666.github.io/projects/PP-Tac/)
+[[YouTube]](https://www.youtube.com/watch?v=-npk0cRKWGI)
+[[Bilibili]]()
 
 
 
