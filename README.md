@@ -69,20 +69,28 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 [[Bilibili]](https://www.bilibili.com/video/BV1pLKwzkEMb/?spm_id_from=333.337.search-card.all.click)
 
 # Sensor Calibration (To be updated)
-## 1. Camera Intrinsic Calibration</a>
+## 0. Camera Intrinsic Calibration</a>
 Refer to [this website](https://github.com/dyfcalid/CameraCalibration/tree/master/IntrinsicCalibration) for intrinsic calibration.
-## 2. Camera Extrinsic Calibration</a>
+## 1. Camera Extrinsic Calibration</a>
 3D print the [calibration tools](Calibration/3Dprint): top, surrounding and 5 pins. Drill and clean the holes in the top model to ensure that pins can be inserted.<br>
 
-In accordance with the hole index in the figure below and referring to the **capture name** in this [folder](Calibration/CameraExtrinsic), insert the five pins into the corresponding holes in one go. Subsequently, save and replace the existing images.
+In accordance with the hole index in the figure below and referring to the **capture name** in this [folder](Calibration/sensor1
+/calib_extrinsic), insert the five pins into the corresponding holes in one go. Subsequently, save and replace the existing images.
 <div style="display: flex; align-items: center;">
   <img src="source/cali1.png" alt="Image 1" style="height: 200px;">
   <img src="source/cali2.png" alt="Image 2" style="height: 175px;">
 </div>
 
-run ./Calibration/1CameraExtrinsics.py and replace the **CAMERA_MATRIX** and **Distortion** with your own camera intrinsc parameters.
-Coming soon
+run ./Calibration/1CameraExtrinsics.py and replace the **CAMERA_MATRIX** and **Distortion** with your own camera intrinsc parameters to obtain the camera extrinsics.
 
+## 2. Obtain the Reference Depth Map</a>
+run ./Calibration/2Reprojection.py to obtain the reference depth map and the mask center and radius.
+
+## 3. Sensor Depth Calibration</a>
+run ./Calibration/3SensorCalibration.py to obtain the mapping list between the grayscale value and the height.
+
+## 4. Surface Reconstruction</a>
+run ./Calibration/4ShapeReconstruction.py to obtain the surface shape.
 
 ## Acknowledgment</a>
 [9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation](https://arxiv.org/abs/2308.14277), Lin et al., RAL 2023
