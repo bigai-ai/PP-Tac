@@ -72,6 +72,7 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 ## 1. Camera Intrinsic Calibration</a>
 Refer to [this website](https://github.com/dyfcalid/CameraCalibration/tree/master/IntrinsicCalibration) for intrinsic calibration.
 ## 2. Camera Extrinsic Calibration</a>
+3D print the [calibration tools](Calibration/3Dprint): top, surrounding and 5 pins. 
 run ./Calibration/1CameraExtrinsics.py and replace the **CAMERA_MATRIX** and **Distortion** with your own camera intrinsc parameters.
 
 <div style="display: flex; align-items: center;">
