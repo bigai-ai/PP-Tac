@@ -85,11 +85,8 @@ run ./Calibration/1CameraExtrinsics.py and replace the **CAMERA_MATRIX** and **D
 ## 2. Obtain the Reference Depth Map</a>
 run ./Calibration/2Reprojection.py to obtain the reference depth map and the mask center and radius.
 
-## 3. Sensor Depth Calibration</a>
-run ./Calibration/3SensorCalibration.py to obtain the mapping list between the grayscale value and the height.
-
-## 4. Surface Reconstruction</a>
-run ./Calibration/4ShapeReconstruction.py to obtain the surface shape.
+## 3. Surface Reconstruction</a>
+run ./Calibration/3ShapeReconstruction.py to obtain the surface shape.
 
 ## Acknowledgment</a>
 [9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation](https://arxiv.org/abs/2308.14277), Lin et al., RAL 2023
