@@ -69,6 +69,7 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 [[Bilibili]](https://www.bilibili.com/video/BV1pLKwzkEMb/?spm_id_from=333.337.search-card.all.click)
 
 # Sensor Calibration
+**Recommended camera resolution: 640 * 480**
 ## 0. Camera Intrinsic Calibration</a>
 Refer to [this website](https://github.com/dyfcalid/CameraCalibration/tree/master/IntrinsicCalibration) for intrinsic calibration.
 ## 1. Camera Extrinsic Calibration</a>
