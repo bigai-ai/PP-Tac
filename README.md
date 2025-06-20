@@ -68,10 +68,11 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 [[YouTube]](https://www.youtube.com/watch?v=-npk0cRKWGI)
 [[Bilibili]](https://www.bilibili.com/video/BV1pLKwzkEMb/?spm_id_from=333.337.search-card.all.click)
 
-# Sensor Calibration
+# Sensor Calibration (To be updated)
 ## 1. Camera Intrinsic Calibration</a>
 Refer to [this website](https://github.com/dyfcalid/CameraCalibration/tree/master/IntrinsicCalibration) for intrinsic calibration.
 ## 2. Camera Extrinsic Calibration</a>
+run ./Calibration/1CameraExtrinsics.py and replace the **CAMERA_MATRIX** and **Distortion** with your own camera intrinsc parameters.
 
 Coming soon
 
