@@ -74,6 +74,10 @@ Refer to [this website](https://github.com/dyfcalid/CameraCalibration/tree/maste
 ## 2. Camera Extrinsic Calibration</a>
 run ./Calibration/1CameraExtrinsics.py and replace the **CAMERA_MATRIX** and **Distortion** with your own camera intrinsc parameters.
 
+<div style="display: flex; align-items: center;">
+  <img src="source/cali1.png" alt="Image 1" style="height: 200px;">
+  <img src="source/cali2.png" alt="Image 2" style="height: 200px;">
+</div>
 Coming soon
 
 
