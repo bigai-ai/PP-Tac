@@ -76,7 +76,7 @@ run ./Calibration/1CameraExtrinsics.py and replace the **CAMERA_MATRIX** and **D
 
 <div style="display: flex; align-items: center;">
   <img src="source/cali1.png" alt="Image 1" style="height: 200px;">
-  <img src="source/cali2.png" alt="Image 2" style="height: 150px;">
+  <img src="source/cali2.png" alt="Image 2" style="height: 175px;">
 </div>
 Coming soon
 
