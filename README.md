@@ -74,7 +74,7 @@ Refer to [this website](https://github.com/dyfcalid/CameraCalibration/tree/maste
 ## 2. Camera Extrinsic Calibration</a>
 3D print the [calibration tools](Calibration/3Dprint): top, surrounding and 5 pins. Drill and clean the holes in the top model to ensure that pins can be inserted.<br>
 
-In accordance with the hole index in the figure below and referring to the **capture name** in this [folder](Calibration/CameraExtrinsic), insert the five pins into the corresponding holes in one go. Subsequently, save and replace the images instead.
+In accordance with the hole index in the figure below and referring to the **capture name** in this [folder](Calibration/CameraExtrinsic), insert the five pins into the corresponding holes in one go. Subsequently, save and replace the existing images.
 <div style="display: flex; align-items: center;">
   <img src="source/cali1.png" alt="Image 1" style="height: 200px;">
   <img src="source/cali2.png" alt="Image 2" style="height: 175px;">
