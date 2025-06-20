@@ -68,14 +68,13 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 [[YouTube]](https://www.youtube.com/watch?v=-npk0cRKWGI)
 [[Bilibili]](https://www.bilibili.com/video/BV1pLKwzkEMb/?spm_id_from=333.337.search-card.all.click)
 
-# Sensor Calibration (To be updated)
+# Sensor Calibration
 ## 0. Camera Intrinsic Calibration</a>
 Refer to [this website](https://github.com/dyfcalid/CameraCalibration/tree/master/IntrinsicCalibration) for intrinsic calibration.
 ## 1. Camera Extrinsic Calibration</a>
 3D print the [calibration tools](Calibration/3Dprint): top, surrounding and 5 pins. Drill and clean the holes in the top model to ensure that pins can be inserted.<br>
 
-In accordance with the hole index in the figure below and referring to the **capture name** in this [folder](Calibration/sensor1
-/calib_extrinsic), insert the five pins into the corresponding holes in one go. Subsequently, save and replace the existing images.
+In accordance with the hole index in the figure below and referring to the **capture name** in this [folder](Calibration/sensor1/calib_extrinsic), insert the five pins into the corresponding holes in one go. Subsequently, save and replace the existing images.
 <div style="display: flex; align-items: center;">
   <img src="source/cali1.png" alt="Image 1" style="height: 200px;">
   <img src="source/cali2.png" alt="Image 2" style="height: 175px;">
