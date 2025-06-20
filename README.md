@@ -12,6 +12,7 @@
 <sup>3</sup>Beihang University
 
 # R-Tac Sensor Guide
+### Low-cost, 120fps, Round-shape Vision-based Tactile Sensor
 [[Project page]](https://peilin-666.github.io/projects/PP-Tac/)
 [[Paper]](https://arxiv.org/abs/2504.16649)
 [[Video Tutorial]](https://www.youtube.com/watch?v=-npk0cRKWGI)
@@ -65,7 +66,10 @@ The design files can be downloaded from [Mold](Model/MetalMold). Two molds are n
 
 ## Video Guide</a>
 [[YouTube]](https://www.youtube.com/watch?v=-npk0cRKWGI)
-[[Bilibili]]()
+[[Bilibili]](https://www.bilibili.com/video/BV1pLKwzkEMb/?spm_id_from=333.337.search-card.all.click)
+
+# Sensor Calibration
+Coming soon
 
 
 ## Acknowledgment</a>
