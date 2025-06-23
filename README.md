@@ -15,7 +15,8 @@
 ### Low-cost, 120fps, Round-shape Single-channel Vision-based Tactile Sensor
 [[Project page]](https://peilin-666.github.io/projects/PP-Tac/)
 [[Paper]](https://arxiv.org/abs/2504.16649)
-[[Video Tutorial]](https://www.youtube.com/watch?v=-npk0cRKWGI)
+[[Video Tutorial_Youtube]](https://www.youtube.com/watch?v=-npk0cRKWGI)
+[[Video Tutorial_Bilibili]](https://www.bilibili.com/video/BV1pLKwzkEMb/?spm_id_from=333.337.search-card.all.click)
 
 <img width="90%" src="source/guide.png">
 
