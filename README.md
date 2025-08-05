@@ -99,12 +99,12 @@ you can build a table by yourself using a single ball capture (press on the top 
 
 ## Reference
 ```
-@article{lin2025pp,
-  title={PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands},
-  author={Lin, Pei and Huang, Yuzhe and Li, Wanlin and Ma, Jianpeng and Xiao, Chenxi and Jiao, Ziyuan},
-  journal={arXiv preprint arXiv:2504.16649},
-  year={2025}
-}
+@INPROCEEDINGS{lin2025pp, 
+    author={Lin, Pei and Huang, Yuzhe and Li, Wanlin and Ma, Jianpeng and Xiao, Chenxi and Jiao, Ziyuan},
+    title     = {PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands},
+    booktitle = {Robotics Science and Systems (RSS)}, 
+    year      = {2025}, 
+} 
 ```
 
 
