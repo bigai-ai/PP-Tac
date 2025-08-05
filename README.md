@@ -97,4 +97,14 @@ you can build a table by yourself using a single ball capture (press on the top 
 ## Acknowledgment</a>
 [9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation](https://arxiv.org/abs/2308.14277), Lin et al., RAL 2023
 
+## Reference
+```
+@article{lin2025pp,
+  title={PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands},
+  author={Lin, Pei and Huang, Yuzhe and Li, Wanlin and Ma, Jianpeng and Xiao, Chenxi and Jiao, Ziyuan},
+  journal={arXiv preprint arXiv:2504.16649},
+  year={2025}
+}
+```
+
 
