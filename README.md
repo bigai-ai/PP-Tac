@@ -94,6 +94,8 @@ or
 <br>
 you can build a table by yourself using a single ball capture (press on the top middle area), by running ./Calibration/3SensorCalibration.py and ./Calibration/4ShapeReconstruction.py
 
+## If you want to try it in TacSL, try the stl file in [PPTac_surface](Model/PPTac_surface.stl).
+
 ## Acknowledgment</a>
 [9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation](https://arxiv.org/abs/2308.14277), Lin et al., RAL 2023
 
